@@ -10,7 +10,7 @@
     "predeploy": "yarn build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "http://light9639.github.io/React-Three-Fiber/",
+  "homepage": "https://light9639.github.io/React-Three-Fiber/",
   "dependencies": {
     "@react-three/drei": "^9.56.24",
     "@react-three/fiber": "^8.11.0",
